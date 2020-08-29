@@ -1,0 +1,9 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple reactjs boilerplate",
+  "main": "index.js",
+  "repository": "git@github.com:viniciusllima/react-boilerplate.git",
+  "author": "Vinicius Lima <viniciusllima@gmail.com>",
+  "license": "MIT"
+}
